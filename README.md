@@ -1,6 +1,8 @@
 # employee-attrition-prediction
  Predictive Analytics for Employee Attrition
+
 Overview
+
 Employee turnover is one of the highest hidden costs for modern enterprises. This project focuses on People Analytics, utilizing statistical modeling and predictive machine learning to identify the key drivers of employee attrition. By analyzing workplace factors, the goal is to forecast flight risk and provide actionable, data-driven retention strategies for HR leadership.
 
 Project Deliverables & Workflow
